@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9dqj0EYgRRXbwWvx7A2l+TpbMOQC2ccGrIuR2T46jXFUw6prRPu+kwyEQdsyHH6/YT5B1fZAQ2OJmL4Acz8Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fdigi\\Documents\\GitHub\\INFFPR-2021-Exam2\\Retake.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fdigi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
